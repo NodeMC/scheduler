@@ -13,3 +13,21 @@
 
 const debug     = require('debug')('nodemc:scheduler:server')
 const dockerode = require('dockerode')
+
+/**
+ * Interact with minecraft files and etc.
+ * 
+ * @class
+ * @type {Minecraft}
+ */
+class Minecraft {
+  constructor() {
+
+  }
+}
+
+class Server {
+  constructor() {
+    this.minecraft = new Minecraft()
+  }
+}
