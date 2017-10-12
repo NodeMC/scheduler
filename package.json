@@ -5,6 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/NodeMC/scheduler",
   "author": "Jared Allard <jared@staymarta.com>",
+  "scripts": {
+    "start": "yarn global add nodemon; nodemon index.js"
+  },
   "license": "MIT",
   "dependencies": {
     "dockerode": "^2.5.1",
