@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "dockerode": "^2.5.1",
-    "fs-extra": "^4.0.2",
+    "fs-extra": "^5.0.0",
     "kue": "^0.11.6",
     "systeminformation": "^3.28.0",
     "uuid": "^3.1.0"
