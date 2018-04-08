@@ -1,5 +1,7 @@
 # NodeMC scheduler
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/NodeMC/scheduler.svg)](https://greenkeeper.io/)
+
 You're probably looking for [NodeMC CORE](https://github.com/NodeMC/CORE).
 
 This component handles communication between different nodes, as well as keeping
